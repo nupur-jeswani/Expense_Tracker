@@ -909,7 +909,7 @@ def Register():
 
 Button(login, padx=10, pady=10, width=52, bg="SteelBlue4", fg="white", height=1, text="Don't Have an Account?", command=Register).place(x=320, y=450)
 
-# login for gui finish
+# login form gui finish
 
 # Registration form gui start
 
